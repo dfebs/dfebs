@@ -1,5 +1,15 @@
-## Hi there 👋
+# Daniel Febles - AKA dfebs
+## About Me
+My name's Daniel and I like doing computer stuff. And also outside stuff. They tell me maintaining a good life balance is necessary for your health or something, so I try and do that. It works to decent enough success. That's really about it! Check out my [website](https://dfebs.com) where I talk about things that I think are interesting! 
 
+## Ask me about...
+1. **Nodejs automated testing for web applications**. This stuff is where I make my living on the day to day. This includes both frontend and backend.
+2. **Ruby on Rails**. This is a nice framework to use, and I appreciate that it lets you not have to worry nearly as much about trying to figure out a tech stack.
+3. **Python**. It's a fun language, and I've made some things here and there with it. I never worked with it enough to become jaded, so I'm generally on good terms with it.
+4. **Rust**. I probably won't touch it again, but it's a really cool language that shows how indulgent other languages can be. I read through the Rust book and made some things with Bevy which was fun.
+
+## Contact
+Check out the sidebar on the left of this profile, as that will probably be more maintained than my readme!
 <!--
 **dfebs/dfebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
