@@ -6,7 +6,7 @@ My name's Daniel and I like doing computer stuff. And also outside stuff. They t
 1. **Nodejs automated testing for web applications**. This is where I make my living on the day to day. This includes both frontend and backend.
 2. **Ruby on Rails**. This is a nice framework to use, and I appreciate that it lets you not have to worry nearly as much about trying to figure out a tech stack.
 3. **Python**. It's a fun language, and I've made some things here and there with it. I never worked with it enough to become jaded, so I'm generally on good terms with it.
-4. **3D Printing**. This is great fun to do. I have a simple grasp on blender so I am cabable of making things every sometimes. I own a Prusa MK4s.
+4. **3D Printing**. This is great fun to do. I have a simple grasp on blender so I am capable of making things every sometimes. I own a Prusa MK4s.
 5. **Rust**. I probably won't touch it again, but it's a really cool language that shows how indulgent other languages can be. I read through the Rust book and made some things with Bevy which was fun.
 
 ## Contact
