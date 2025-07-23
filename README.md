@@ -1,6 +1,6 @@
 # Daniel Febles - AKA dfebs
 ## About Me
-My name's Daniel and I like doing computer stuff. And also outside stuff. They tell me maintaining a good life balance is necessary for your health or something, so I try and do that. It works to decent enough success. That's really about it! Check out my [website](https://dfebs.com) where I talk about things that I think are interesting! 
+My name's Daniel and I like doing computer stuff. Outside stuff is pretty neat too. They tell me maintaining a good life balance is necessary for your health or something, so I try and do that. It works to decent enough success. Check out my [website](https://dfebs.com) where I talk about things that I think are interesting! 
 
 ## Ask me about...
 1. **Nodejs automated testing for web applications**. This is where I make my living on the day to day. This includes both frontend and backend.
